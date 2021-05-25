@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<TasksHolder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <categories>
+    <Category xsi:type="Task">
+      <CategoryNumber>1</CategoryNumber>
+      <CategoryName>Paint</CategoryName>
+      <Images>
+        <string>../../img/1/1_1.png</string>
+        <string>../../img/1/1_2.png</string>
+        <string>../../img/1/1_3.png</string>
+      </Images>
+      <Colors>
+        <Color />
+        <Color />
+        <Color />
+      </Colors>
+    </Category>
+  </categories>
+</TasksHolder>
