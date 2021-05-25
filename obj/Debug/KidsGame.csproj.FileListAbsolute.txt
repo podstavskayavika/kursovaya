@@ -1,0 +1,26 @@
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\bin\Debug\KidsGame.exe.config
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\bin\Debug\KidsGame.exe
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\bin\Debug\KidsGame.pdb
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.csprojAssemblyReference.cache
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.GameScreen.resources
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.Properties.Resources.resources
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.GenerateResource.cache
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.CoreCompileInputs.cache
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.exe
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.pdb
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.FigureTransferring.resources
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.ManualForm.resources
+C:\Users\samso\OneDrive\Рабочий стол\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.GameMenu.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\bin\Debug\KidsGame.exe.config
+C:\Users\User\Desktop\KidsGame\KidsGame\bin\Debug\KidsGame.exe
+C:\Users\User\Desktop\KidsGame\KidsGame\bin\Debug\KidsGame.pdb
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.FigureTransferring.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.GameScreen.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.Properties.Resources.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.ManualForm.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.User_Interface.GameMenu.resources
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.exe
+C:\Users\User\Desktop\KidsGame\KidsGame\obj\Debug\KidsGame.pdb
